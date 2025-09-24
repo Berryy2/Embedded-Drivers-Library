@@ -27,30 +27,35 @@ This repository is my personal effort in learning and mastering embedded systems
 ## 📂 Repository Structure  
 
 Embedded-Drivers-Library/
-│── GPIO/
 
+│── GPIO/
 │ ├── gpio.c
 
 │ ├── gpio.h
 │
+
 │── Keypad/
 │ ├── keypad.c
 │ ├── keypad.h
 │ ├── gpio.c # dependency
 │ ├── gpio.h
 │
+
 │── LCD/
 │ ├── lcd.c
 │ ├── lcd.h
 │
+
 │── ADC/
 │ ├── adc.c
 │ ├── adc.h
 │
+
 │── Timer/
 │ ├── timer.c
 │ ├── timer.h
 │
+
 └── README.md
 
 ## ⚙️ How to Use  
