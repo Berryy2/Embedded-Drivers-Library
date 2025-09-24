@@ -30,46 +30,46 @@ Embedded-Drivers-Library/
 
 │── GPIO/
 
-│ ├── gpio.c
+   │ ├── gpio.c
 
-│ ├── gpio.h
-│
+   │ ├── gpio.h
+   │
 
 
 │── Keypad/
 
-│ ├── keypad.c
+   │ ├── keypad.c
 
-│ ├── keypad.h
+   │ ├── keypad.h
+   
+   │ ├── gpio.c # dependency
 
-│ ├── gpio.c # dependency
-
-│ ├── gpio.h
-│
+   │ ├── gpio.h
+   │
 
 
 │── LCD/
 
-│ ├── lcd.c
+   │ ├── lcd.c
 
-│ ├── lcd.h
-│
+   │ ├── lcd.h
+   │
 
 
 │── ADC/
 
-│ ├── adc.c
+   │ ├── adc.c
 
-│ ├── adc.h
-│
+   │ ├── adc.h
+   │
 
 
 │── Timer/
 
-│ ├── timer.c
+   │ ├── timer.c
 
-│ ├── timer.h
-│
+   │ ├── timer.h
+   │
 
 
 └── README.md
