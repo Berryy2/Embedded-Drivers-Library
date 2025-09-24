@@ -9,9 +9,9 @@ This repository is my personal effort in learning and mastering embedded systems
 ## 📚 Available Drivers  
 - 🔌 **GPIO** – General Purpose I/O driver for pin/port control  
 - ⌨️ **Keypad** – Matrix keypad scanning and input handling  
-- 🖥️ **LCD** – HD44780-compatible character LCD driver  
-- ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  
-- 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing  
+- 🖥️ **LCD** – HD44780-compatible character LCD driver  coming soon...
+- ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  coming soon...
+- 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing  coming soon...
 - ⚡ More drivers coming soon...  
 
 ---
@@ -28,47 +28,28 @@ This repository is my personal effort in learning and mastering embedded systems
 
 Embedded-Drivers-Library/
 │── GPIO/
-
 │ ├── gpio.c
-
 │ ├── gpio.h
-
 │
 │── Keypad/
-
 │ ├── keypad.c
-
 │ ├── keypad.h
-
 │ ├── gpio.c # dependency
-
 │ ├── gpio.h
-
 │
 │── LCD/
-
 │ ├── lcd.c
-
 │ ├── lcd.h
-
 │
 │── ADC/
-
 │ ├── adc.c
-
 │ ├── adc.h
-
 │
 │── Timer/
-
 │ ├── timer.c
-
 │ ├── timer.h
-
 │
 └── README.md
-
----
 
 ## ⚙️ How to Use  
 
