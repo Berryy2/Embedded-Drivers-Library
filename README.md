@@ -9,9 +9,11 @@ This repository is my personal effort in learning and mastering embedded systems
 ## 📚 Available Drivers  
 - 🔌 **GPIO** – General Purpose I/O driver for pin/port control  
 - ⌨️ **Keypad** – Matrix keypad scanning and input handling  
-- 🖥️ **LCD** – HD44780-compatible character LCD driver  
-- ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  coming soon...
-- 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing  coming soon...
+- 🖥️ **LCD** – HD44780-compatible character LCD driver
+- 🌡️ **LM35 Driver**: Temperature sensor driver using ADC to measure in °C.  
+- 📸 **ICU Driver**: Input Capture Unit driver for edge timing and event measurement with use of the callback function.  
+- 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing
+- ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  coming soon... 
 - ⚡ More drivers coming soon...  
 
 ---
