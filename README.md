@@ -13,6 +13,7 @@ This repository is my personal effort in learning and mastering embedded systems
 - 🌡️ **LM35 Driver**: Temperature sensor driver using ADC to measure in °C.  
 - 📸 **ICU Driver**: Input Capture Unit driver for edge timing and event measurement with use of the callback function.  
 - 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing
+- 📡 **UART** - Universal Asynchronous Reciever Transmitter drivier for communication support 
 - ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  coming soon... 
 - ⚡ More drivers coming soon...  
 
