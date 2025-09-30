@@ -14,7 +14,8 @@ This repository is my personal effort in learning and mastering embedded systems
 - 📸 **ICU Driver**: Input Capture Unit driver for edge timing and event measurement with use of the callback function.  
 - 📡 **ADC** – Analog-to-Digital Converter driver for sensor interfacing
 - 📡 **UART** - Universal Asynchronous Reciever Transmitter drivier for communication support
-- 📡 **SPI** - Serial Prepheral Interface for higher speed synchronous communication. 
+- 📡 **SPI** - Serial Prepheral Interface for higher speed synchronous full duplex communication.
+- 📡 **I2C/TWI** - Two Wires Interface for multi master multi slave half duplex synchronous communication. 
 - ⏱️ **Timer** – Timer0/1/2 drivers for delays, counters, and PWM  coming soon... 
 - ⚡ More drivers coming soon...  
 
